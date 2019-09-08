@@ -1,4 +1,4 @@
-# MiniChat
+# minichat
 
 <p align="justify">Entraînement back-end (PHP et SQL) : travail réalisé dans le cadre du MOOC <a href="https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql">"Concevez votre site web avec PHP et MySQL"</a> proposé par la plateforme OpenClassrooms, avec une mission consistant donc à créer cette fois-ci un système de messagerie instantanée (qui aurait été bien utile au protagoniste de <a href="https://github.com/baptl/CV">mon premier projet</a> :satellite:).</p>
 
